@@ -1,0 +1,8 @@
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\ChipSkate\ChipSkate\bin\Debug\ChipSkate.exe
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\ChipSkate\ChipSkate\bin\Debug\ChipSkate.pdb
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\ChipSkate\ChipSkate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\ChipSkate\ChipSkate\obj\Debug\ChipSkate.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\ChipSkate\ChipSkate\obj\Debug\ChipSkate.Properties.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\ChipSkate\ChipSkate\obj\Debug\ChipSkate.csproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\ChipSkate\ChipSkate\obj\Debug\ChipSkate.exe
+C:\Users\Jake\Documents\Visual Studio 2008\Projects\ChipSkate\ChipSkate\obj\Debug\ChipSkate.pdb
